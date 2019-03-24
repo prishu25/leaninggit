@@ -2,6 +2,7 @@ package testing;
 
 public class demo {
 	public String xyz;
-	public String shdjkhsahkdshjshdka;
+	public String abc;
+	public String eou;
 
 }
